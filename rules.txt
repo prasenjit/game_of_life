@@ -1,0 +1,4 @@
+1. Any cell with more than 3 neighbours will die of overcrowding.
+2. Any cell with less than 2 neighbours will die of underpopulation.
+3. Any cell with 2 or 3 neighbours will live.
+4. Any dead cell with exactly 3 live neighbours will become live again.
